@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "nombre": "Miguel",
+    "edad": 22,
+    "sexo": "Hombre",
+    "altura": 1.78,
+    "peso": 75.4,
+    "year": 2000
+  },
+  {
+    "id": 2,
+    "nombre": "María",
+    "edad": 29,
+    "sexo": "Mujer",
+    "altura": 1.65,
+    "peso": 60.1,
+    "year": 1998
+  },
+  {
+    "id": 3,
+    "nombre": "Alejandro",
+    "edad": 25,
+    "sexo": "Hombre",
+    "altura": 1.82,
+    "peso": 83.2,
+    "year": 2001
+  },
+  {
+    "id": 4,
+    "nombre": "Sofía",
+    "edad": 33,
+    "sexo": "Mujer",
+    "altura": 1.68,
+    "peso": 62.7,
+    "year": 1999
+  },
+  {
+    "id": 5,
+    "nombre": "Daniel",
+    "edad": 27,
+    "sexo": "Hombre",
+    "altura": 1.75,
+    "peso": 79.8,
+    "year": 2000
+  },
+  {
+    "id": 6,
+    "nombre": "Lucía",
+    "edad": 24,
+    "sexo": "Mujer",
+    "altura": 1.61,
+    "peso": 57.3,
+    "year": 1998
+  },
+  {
+    "id": 7,
+    "nombre": "Javier",
+    "edad": 31,
+    "sexo": "Hombre",
+    "altura": 1.86,
+    "peso": 90.5,
+    "year": 2002
+  },
+  {
+    "id": 8,
+    "nombre": "Ana",
+    "edad": 23,
+    "sexo": "Mujer",
+    "altura": 1.72,
+    "peso": 65.6,
+    "year": 2000
+  },
+  {
+    "id": 9,
+    "nombre": "Pedro",
+    "edad": 26,
+    "sexo": "Hombre",
+    "altura": 1.81,
+    "peso": 82.1,
+    "year": 1999
+  },
+  {
+    "id": 10,
+    "nombre": "Carla",
+    "edad": 30,
+    "sexo": "Mujer",
+    "altura": 1.73,
+    "peso": 64.9,
+    "year": 2001
+  },
+  {
+    "id": 11,
+    "nombre": "Fernando",
+    "edad": 28,
+    "sexo": "Hombre",
+    "altura": 1.79,
+    "peso": 78.3,
+    "year": 2000
+  },
+  {
+    "id": 12,
+    "nombre": "Liam",
+    "edad": 27,
+    "sexo": "masculino",
+    "altura": 1.85,
+    "peso": 82.4,
+    "year": 2008
+  },
+  {
+    "id": 13,
+    "nombre": "Emma",
+    "edad": 23,
+    "sexo": "femenino",
+    "altura": 1.68,
+    "peso": 56.7,
+    "year": 2012
+  },
+  {
+    "id": 14,
+    "nombre": "Noah",
+    "edad": 31,
+    "sexo": "masculino",
+    "altura": 1.82,
+    "peso": 75.3,
+    "year": 2014
+  },
+  {
+    "id": 15,
+    "nombre": "Olivia",
+    "edad": 26,
+    "sexo": "femenino",
+    "altura": 1.72,
+    "peso": 63.8,
+    "year": 2011
+  },
+  {
+    "id": 16,
+    "nombre": "William",
+    "edad": 29,
+    "sexo": "masculino",
+    "altura": 1.79,
+    "peso": 80.1,
+    "year": 2013
+  }
+     
+    ]  
